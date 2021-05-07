@@ -9,4 +9,10 @@ _site/*
 .jekyll-cache
 .sass-cache
 Gemfile.lock
-.vscode/*
+vscode/*
+src/generated/**
+node_modules/*
+public/*
+.cache/**
+.cache/*
+.cache
