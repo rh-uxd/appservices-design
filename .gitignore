@@ -13,6 +13,4 @@ vscode/*
 src/generated/**
 node_modules/*
 public/*
-.cache/**
-.cache/*
 .cache
